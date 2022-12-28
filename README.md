@@ -22,4 +22,4 @@ Things I've done that I'm proud of :)
 
 ##Links To Music Works and Projects:
 
-### [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/knocksentertainment2405) 
+### [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCBRJ-eKhATckCLEYQrNC6Nw) 
