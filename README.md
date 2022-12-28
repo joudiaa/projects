@@ -2,7 +2,7 @@
 
 Things I've done that I'm proud of :)
 
-## Toot-Ur-Floot (another twitter group project with Spencer Zhang)
+### Toot-Ur-Floot (another twitter group project with Spencer Zhang)
 
 [Toot Ur Floot link](https://github.com/spencer-in-github/toot-ur-floot.git)
 
