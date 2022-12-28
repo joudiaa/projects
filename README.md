@@ -2,6 +2,10 @@
 
 Things I've done that I'm proud of :)
 
+## Toot-Ur-Floot (another twitter group project with Spencer Zhang)
+
+[Toot Ur Floot link](https://github.com/spencer-in-github/toot-ur-floot.git)
+
 ## C#/Chunity (Chuck and Unity) Projects:
 
 ### Squid Game AudioVisualizer
@@ -16,7 +20,6 @@ Things I've done that I'm proud of :)
 
 [Sunday Nights link](https://ccrma.stanford.edu/~joudiaa/256a/final/)
 
-## Toot-Ur-Floot (another twitter group project with Spencer Zhang)
+##Links To Music Works and Projects:
 
-[Toot Ur Floot link](https://github.com/spencer-in-github/toot-ur-floot.git)
-
+### [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/knocksentertainment2405) 
