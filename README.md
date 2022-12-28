@@ -20,8 +20,22 @@ Things I've done that I'm proud of :)
 
 [Sunday Nights link](https://ccrma.stanford.edu/~joudiaa/256a/final/)
 
-##Links To Music Works and Projects:
-
-* KNOCKS Entertainment:
+## KNOCKS Entertainment (record label):
 
   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCBRJ-eKhATckCLEYQrNC6Nw) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/knocksent/)
+
+## Links to Music Projects (work for other artists):
+
+* [Banah debut single, Shou Helou Nehna](https://www.youtube.com/watch?v=9KG4K1jOcUA)
+* [Lana, “Jamais” Album](https://iamlana.bandcamp.com/releases)
+* [Aley debut single, Bedayati Single](https://www.youtube.com/watch?v=zVILlXqHcqk)
+* [Nourhane debut single, Sa3a, 2, 3](https://www.youtube.com/watch?v=L-c6bpHNfMk)
+* [Ahmed Tarek Yehia, Ahsan Nas](https://www.youtube.com/watch?v=uXgqnKmN0Vw)
+* [AUC Concert Series Livestreams](https://www.youtube.com/channel/UCKPQyaFApE2YQPRhKIG_9cQ)
+
+## Computer Music Generated Projects:
+
+* [Data Sonification (careful it’s LOUD!)](https://ccrma.stanford.edu/~joudiaa/220a/hw1/)
+* [Effects and Patterns](https://ccrma.stanford.edu/~joudiaa/220a/hw3/)
+* [Sound Logo: Smoke Room](https://ccrma.stanford.edu/~joudiaa/220b/hw1/)
+* [Homebrew Composition]([https://www.google.com](https://ccrma.stanford.edu/~joudiaa/220b/hw2/))
