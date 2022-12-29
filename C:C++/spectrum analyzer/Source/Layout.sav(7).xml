@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<magic>
+  <Style name="default">
+    <Nodes/>
+    <Classes>
+      <plot-view border="2" background-color="black" border-color="silver" display="contents"/>
+      <nomargin margin="0" padding="0" border="0"/>
+      <group margin="5" padding="5" border="2" flex-direction="column"/>
+      <transparent background-color="transparentblack"/>
+    </Classes>
+    <Types>
+      <Slider border="0" slider-textbox="textbox-below"/>
+      <ToggleButton border="0" max-height="50" caption-size="0" text="Active"/>
+      <TextButton border="0" max-height="50" caption-size="0"/>
+      <ComboBox border="0" max-height="50" caption-size="0"/>
+      <Plot border="0" margin="0" padding="0" background-color="00000000"
+            radius="0"/>
+      <XYDragComponent border="0" margin="0" padding="0" background-color="00000000"
+                       radius="0"/>
+    </Types>
+  </Style>
+  <View id="root" resizable="1" resize-corner="1">
+    <View class="parameters nomargin">
+      <Plot pos-x="0%" pos-y="0%" pos-width="50%" pos-height="100%"/>
+      <Slider caption="Smooth Time" parameter="smoothTime" pos-x="33.2759%"
+              pos-y="0%" pos-width="33.2759%" pos-height="100%" flex-grow="0.5"/>
+      <Slider caption="dB Offset" parameter=" dB Offset" pos-x="83.9655%" pos-y="0%"
+              pos-width="16.0345%" pos-height="50.5263%" flex-grow="0.5"/>
+    </View>
+  </View>
+  <Styles>
+    <Style name="default">
+      <Nodes/>
+      <Classes>
+        <plot-view border="2" background-color="black" border-color="silver" display="contents"/>
+        <nomargin margin="0" padding="0" border="0"/>
+        <group margin="5" padding="5" border="2" flex-direction="column"/>
+        <transparent background-color="transparentblack"/>
+      </Classes>
+      <Types>
+        <Slider border="0" slider-textbox="textbox-below"/>
+        <ToggleButton border="0" max-height="50" caption-size="0" text="Active"/>
+        <TextButton border="0" max-height="50" caption-size="0"/>
+        <ComboBox border="0" max-height="50" caption-size="0"/>
+        <Plot border="0" margin="0" padding="0" background-color="00000000"
+              radius="0"/>
+        <XYDragComponent border="0" margin="0" padding="0" background-color="00000000"
+                         radius="0"/>
+      </Types>
+      <Palettes>
+        <default/>
+      </Palettes>
+    </Style>
+  </Styles>
+</magic>
